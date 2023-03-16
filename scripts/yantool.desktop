@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Yantool
+Comment=yantool
+Exec=/opt/yantool/yantool_start.sh
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=/opt/yantool/images/icons/Yantool.png
+Categories=GNOME;Education;XProgramming;
+

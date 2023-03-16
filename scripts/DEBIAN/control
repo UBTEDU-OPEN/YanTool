@@ -1,0 +1,7 @@
+Package: ubtedu-yanshee
+Version: 1.5.1-10
+Architecture: armhf
+Maintainer: Cygnus Yang <cygnus.yang@ubtrobot.com>
+Depends: 
+Description: UBTEDU Yanshee application
+ Provide voice recognition, vision and robotic things
